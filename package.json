@@ -1,0 +1,63 @@
+{
+  "_from": "transition-element-property-helper",
+  "_id": "transition-element-property-helper@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-aXlKKkuuSfSk/XJY+GBH5lkDCFQNjt32xNTkjJEzMh66yxA/kZzUNsnrK+itiivpMyvxtOyvt9Q8T5b+V2GYjA==",
+  "_location": "/transition-element-property-helper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "transition-element-property-helper",
+    "name": "transition-element-property-helper",
+    "escapedName": "transition-element-property-helper",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/transition-element-property-helper/-/transition-element-property-helper-1.0.3.tgz",
+  "_shasum": "4307cd5ee74553e7f7411e54d5651a49bdec4aa8",
+  "_spec": "transition-element-property-helper",
+  "_where": "C:\\Users\\FreeLance\\Desktop\\Version 1.0.4",
+  "author": {
+    "name": "Anton Maklakov"
+  },
+  "bugs": {
+    "url": "https://github.com/AntonPluginsCreator/TransitionElementPropertyHelper/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Simple plugin for test transition property for site styles. The test results appear in the console.",
+  "homepage": "https://github.com/AntonPluginsCreator/TransitionElementPropertyHelper#readme",
+  "keywords": [
+    "transition",
+    "transitions",
+    "css",
+    "property",
+    "style",
+    "styles",
+    "console",
+    "log",
+    "test",
+    "transition-property",
+    "transition-duration",
+    "transition-delay",
+    "transition-timing-function",
+    "helper"
+  ],
+  "license": "MIT",
+  "main": "transition-element-property-helper.js",
+  "name": "transition-element-property-helper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonPluginsCreator/TransitionElementPropertyHelper.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
